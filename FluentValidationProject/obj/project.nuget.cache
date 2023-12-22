@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vg/qJoj1cdNcX8UK/vxUDLayAiqowC8pgOw7nEl9FI7PfjXh2uVBf4Q8ni0Z7Opc/0/0j5bYpyiK3BaQEMRiJg==",
+  "success": true,
+  "projectFilePath": "C:\\Patika-Akbank_BootCamp\\Week1\\FluentValidationWork\\aw-1-Muhammet-Tarik-Dumanli\\FluentValidationProject\\FluentValidationProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MUHAMMET\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\MUHAMMET\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\MUHAMMET\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\MUHAMMET\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\MUHAMMET\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\MUHAMMET\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\MUHAMMET\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
